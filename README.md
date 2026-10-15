@@ -28,7 +28,8 @@ Designed to perform grammatical analysis, text improvement, Ancient Greek transl
 
 > *"We don't just give syntax to texts. We give them soul."*  
 > — Linguify
-
+### NeuroLex
+A tool that analyses the language of a speech transcript. It calculates linguistic indicators.
 ---
 
 ## 📫 Get in touch
